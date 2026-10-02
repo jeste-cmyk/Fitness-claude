@@ -3,7 +3,7 @@
 ## Contenido actual
 _Vigente desde: 2026-10-01_
 
-Cada estiramiento 20 s x 2 _(por confirmar: si el "20s x2" aplica a todos o solo al último)_.
+Cada estiramiento: 20 s x 2.
 
 1. Cuádriceps
 2. Gemelos
