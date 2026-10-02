@@ -2,7 +2,7 @@
 
 - **Zona horaria:** America/Lima
 - **Horario:** lunes a viernes y domingo, un bloque temprano. Sábado en dos bloques (A y B).
-- **Recordatorios:** los maneja el usuario con su calendario.
+- **Recordatorios:** el usuario usa su calendario. Además hay una Routine diaria (5:55 Lima, id trig_018rxhg2qzRyhRPDbSCqnS5S) que envía "qué toca hoy" al chat de la sesión original.
 - **Running:** en cinta; velocidades en mph.
 
 
