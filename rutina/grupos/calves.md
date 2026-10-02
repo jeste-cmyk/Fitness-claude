@@ -3,9 +3,12 @@
 - **Descanso entre series:** 1 min
 
 ## Contenido actual
-_Vigente desde: ~2026-09-17 (según el usuario, lleva ~2 semanas con este contenido; sin registros detallados de esas sesiones)._
+_Vigente desde: 2026-10-02_
 
-- Pantorrillas (cada pierna) — 14 / 12 / 10 / 8 reps (4 series)
+- Pantorrillas (cada pierna) — 14 / 12 / 10 / 10 reps (4 series)
 
 ## Historial
-_(sin cambios aún)_
+
+### ~2026-09-17 → 2026-10-01
+- Pantorrillas (cada pierna) — 14 / 12 / 10 / 8 reps (4 series)
+- Motivo del cambio: el 2026-10-02 hizo 14/12/10/10 y pidió fijarlo como nuevo contenido.
