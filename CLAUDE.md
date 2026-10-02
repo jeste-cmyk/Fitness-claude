@@ -22,11 +22,20 @@ El repo es la memoria: perfil, rutina, logs y planes viven aquí como archivos M
 
 ```
 perfil.md                     objetivos, nivel, equipo, lesiones, horarios
-rutina/actual.md              rutina vigente (qué toca cada día)
-rutina/historial/AAAA-MM-DD.md  rutinas anteriores (fecha = día en que dejó de estar vigente)
+rutina/semana.md              qué grupos tocan cada día (única fuente de días; sábado en bloques A/B)
+rutina/grupos/<grupo>.md      un archivo por grupo (Legs, Calves, Upper body, Running, Estirar, English):
+                              descanso, contenido actual con fecha "vigente desde" e historial de cambios
 logs/AAAA/MM/AAAA-MM-DD.md    lo que realmente se hizo ese día
 planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
 ```
+
+## Rutina: grupos estables, contenido variable
+
+- El **grupo** (nombre) es estable; lo que cambia es su **contenido**: series, reps, ejercicios.
+- Cambiar el contenido de un grupo → mover el bloque "Contenido actual" a "Historial" (arriba del
+  todo, con su rango de fechas y el motivo del cambio) y escribir el nuevo con "Vigente desde: <hoy>".
+- Cambiar qué día toca un grupo → editar solo `rutina/semana.md`.
+- Crear o eliminar un grupo solo si el usuario lo pide.
 
 ## Calendario semanal
 
@@ -38,12 +47,11 @@ planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
 ## Qué hacer según lo que pida el usuario
 
 - **"¿Qué toca hoy?"** → ver skill `hoy`. Dar el detalle completo del día: ejercicios, series, reps,
-  carga sugerida, descanso y notas. Prioridad de fuentes: `planes/<semana actual>.md` > `rutina/actual.md`.
+  carga sugerida, descanso y notas. Prioridad de fuentes: `planes/<semana actual>.md` > `rutina/semana.md` + `rutina/grupos/`.
   Mencionar la última vez que hizo cada ejercicio (fecha y resultado) si existe en los logs.
 - **Reportar un entrenamiento** (texto libre, ej. "banca 3x8 60kg, la última costó") → skill `log`.
 - **Plan de la semana siguiente** → skill `plan-semana`.
-- **Cambiar la rutina** → mover `rutina/actual.md` a `rutina/historial/<fecha de hoy>.md`,
-  escribir la nueva en `rutina/actual.md`, y anotar en ella el motivo del cambio.
+- **Cambiar la rutina** → ver "Rutina: grupos estables, contenido variable".
 - **Preguntas sobre el histórico** ("¿cuánto levantaba en banca hace un mes?") → buscar en `logs/`
   con grep y responder con fechas concretas.
 
@@ -54,6 +62,9 @@ Son heurísticas de diseño, no verdades científicas. Usar con criterio y expli
 - **Doble progresión** para ejercicios con rango de reps (ej. 3x8–12): se mantiene el peso hasta
   completar todas las series en el tope del rango; entonces subir carga (~2.5 kg tren superior,
   ~5 kg tren inferior, o el incremento mínimo disponible) y volver al piso del rango.
+- Ejercicios con peso corporal y reps en escalera (ej. 12/11/10/9): progresar sumando 1 rep a una o
+  más series, luego añadir una serie o lastre. Sugerir un solo cambio por grupo a la vez.
+- Running: no subir volumen semanal más de lo razonable de golpe; ajustar con lo reportado.
 - Si falló el piso del rango dos sesiones seguidas en un ejercicio: mantener o bajar ~5–10%.
 - Si reporta dolor (no confundir con fatiga normal): no subir carga en ese ejercicio, sugerir
   alternativa y recomendar consultar a un profesional si persiste.

@@ -18,7 +18,7 @@ description: Registra un entrenamiento que el usuario describe en texto libre y 
    - Notas: dormí poco
    ```
 
-   - Nombres de ejercicios consistentes con `rutina/actual.md` (para que grep funcione).
+   - Nombres de ejercicios consistentes con `rutina/grupos/` (para que grep funcione).
    - Si series distintas: `Press banca — 8/8/6 @ 60 kg`.
    - Guardar sensaciones, dolor, RPE si los menciona. No inventar lo que no dijo.
 5. Comparar contra lo planificado (plan de la semana o rutina) y comentar en 1–3 líneas:

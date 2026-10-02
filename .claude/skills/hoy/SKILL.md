@@ -5,7 +5,7 @@ description: Dice qué entrenamiento toca hoy (o el día indicado) con el detall
 
 1. Sincronizar: `git fetch origin main && git checkout main && git pull origin main`.
 2. Fecha en Lima: `TZ=America/Lima date '+%Y-%m-%d %A %G-W%V'` (o el día que pidió el usuario).
-3. Fuente: si existe `planes/<AAAA-Www>.md` usar el día correspondiente; si no, `rutina/actual.md`.
+3. Fuente: si existe `planes/<AAAA-Www>.md` usar el día correspondiente; si no, `rutina/semana.md` para saber qué grupos tocan y `rutina/grupos/<grupo>.md` para el contenido.
    Si es sábado, mostrar Bloque A y Bloque B por separado.
 4. Para cada ejercicio buscar el último registro en `logs/` (`grep -rn "<ejercicio>" logs/ | sort | tail`)
    y mostrar "última vez: fecha — resultado".
@@ -14,4 +14,4 @@ description: Dice qué entrenamiento toca hoy (o el día indicado) con el detall
    - Título: día, fecha y foco de la sesión
    - Por ejercicio: series x reps @ carga sugerida, descanso, nota técnica breve, última vez
    - Cierre: una línea con el objetivo de la sesión
-7. Si la rutina está vacía o pendiente, decirlo y ofrecer cargarla.
+7. Si algo del día está "por definir", decirlo y ofrecer cargarla.
