@@ -18,4 +18,5 @@ Para elegir variantes concretas falta saber: equipo disponible y lesiones/molest
 - [ ] **Progresión de reps (propuesta 2026-10-01):**
   - Semana 2026-W41 (5–11 oct): pull ups 7/7/7/7 · dips 9/9/9/9 · búlgara 12/11/10/10 · calves 14/12/10/10 (ya aplicado a la rutina el 2026-10-02)
   - Semana 2026-W42 (12–18 oct), si se completó W41: pull ups 8/7/7/7 · dips 10/9/9/9 · búlgara 12/11/11/10 · calves 14/12/12/10
-  - Running sin cambios (consolidar el tempo de 25 min @ 7.0 mph)
+  - Running (actualizado 2026-10-02): el usuario quiere subir running cada semana. Sábado 3 oct ya pasa a 5 x 4 min @ 8 mph.
+    Propuesto para domingo 4 oct: rodaje largo 45 min (antes 40) a 5–5.5 mph. Pendiente de confirmar.
