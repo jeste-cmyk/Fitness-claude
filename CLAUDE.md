@@ -43,7 +43,7 @@ planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
 - Lunes a viernes y domingo: **un bloque** por día (temprano).
 - Sábado: **dos bloques** (Bloque A y Bloque B). Tratarlos como sesiones separadas en rutina,
   plan y log (secciones `## Bloque A` / `## Bloque B` en el mismo archivo del día).
-- Recordatorios: calendario del usuario + Routine diaria trig_018rxhg2qzRyhRPDbSCqnS5S (5:55 Lima, pedida el 2026-10-02) que manda "qué toca hoy" al chat. No crear más Routines/cron salvo que lo pida.
+- Recordatorios: calendario del usuario + Routines pedidas el 2026-10-02: diaria 5:55 Lima (trig_018rxhg2qzRyhRPDbSCqnS5S, sábado = Bloque A) y sábado 11:55 Lima (trig_016wWmCgJvmxYan7hXdZCYtk, Bloque B). No crear más Routines/cron salvo que lo pida.
 
 ## Qué hacer según lo que pida el usuario
 
