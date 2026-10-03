@@ -1,6 +1,6 @@
 # Upper body
 
-- **Descanso entre series:** _(no especificado)_
+- **Descanso entre series:** 1 min 30 s
 
 ## Contenido actual
 _Vigente desde: ~2026-09-17 (según el usuario, lleva ~2 semanas con este contenido; sin registros detallados de esas sesiones)._

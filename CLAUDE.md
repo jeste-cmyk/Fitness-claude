@@ -47,7 +47,7 @@ planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
 
 ## Qué hacer según lo que pida el usuario
 
-- **"¿Qué toca hoy?"** → ver skill `hoy`. Dar el detalle completo del día: ejercicios, series, reps,
+- **"¿Qué toca hoy?"** → ver skill `hoy`. **Uno por uno:** mandar un solo grupo a la vez y el siguiente cuando confirme que terminó. Dar el detalle completo del día: ejercicios, series, reps,
   carga sugerida, descanso y notas. Prioridad de fuentes: `planes/<semana actual>.md` > `rutina/semana.md` + `rutina/grupos/`.
   Mencionar la última vez que hizo cada ejercicio (fecha y resultado) si existe en los logs.
 - **Reportar un entrenamiento** (texto libre, ej. "banca 3x8 60kg, la última costó") → skill `log`.
