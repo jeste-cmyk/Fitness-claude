@@ -3,9 +3,9 @@
 Qué grupos tocan cada día. Es la **única** fuente de qué-día-toca-qué
 (los archivos de `grupos/` no repiten los días).
 
-- **Lunes:** Legs · Calves · Upper body
+- **Lunes:** Legs · Upper body · Calves
 - **Martes:** Running (rodaje suave)
-- **Miércoles:** Legs · Calves · Upper body
+- **Miércoles:** Legs · Upper body · Calves
 - **Jueves:** Running (tempo)
 - **Viernes:** Legs · Calves · English
 - **Sábado — Bloque A:** Running (series)
