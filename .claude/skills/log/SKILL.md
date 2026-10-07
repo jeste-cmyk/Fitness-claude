@@ -25,3 +25,6 @@ description: Registra un entrenamiento que el usuario describe en texto libre y 
    cumplió / superó / quedó corto, y qué implica para la próxima vez según las reglas de CLAUDE.md.
 6. `git add logs && git commit -m "log: AAAA-MM-DD <bloque>" && git push origin main`.
 7. Confirmar al usuario lo guardado (resumen breve), y si el push falló decirlo claramente.
+8. **Cierre del día (preferencia del usuario, 2026-10-07):** si con este log se completó el último grupo
+   del día (o del Bloque B en sábado), responder con el **resumen del día** (cada grupo con su resultado
+   y una línea de lectura si aplica). **No** hablar de lo que toca mañana ni adelantar el día siguiente.

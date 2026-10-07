@@ -51,6 +51,7 @@ planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
   carga sugerida, descanso y notas. Prioridad de fuentes: `planes/<semana actual>.md` > `rutina/semana.md` + `rutina/grupos/`.
   Mencionar la última vez que hizo cada ejercicio (fecha y resultado) si existe en los logs.
 - **Reportar un entrenamiento** (texto libre, ej. "banca 3x8 60kg, la última costó") → skill `log`.
+  Al terminar el día: dar solo el resumen del día; **no** mencionar lo que toca mañana.
 - **Plan de la semana siguiente** → skill `plan-semana`.
 - **Cambiar la rutina** → ver "Rutina: grupos estables, contenido variable".
 - **Preguntas sobre el histórico** ("¿cuánto levantaba en banca hace un mes?") → buscar en `logs/`
