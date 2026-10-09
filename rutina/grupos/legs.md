@@ -1,6 +1,6 @@
 # Legs
 
-- **Descanso entre series:** 1 min
+- **Descanso:** 45 s después de cada pierna (pierna derecha → 45 s → pierna izquierda → 45 s → siguiente serie). Desde 2026-10-09; antes: 1 min después de ambas piernas.
 
 ## Contenido actual
 _Vigente desde: 2026-10-09_
