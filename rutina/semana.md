@@ -7,7 +7,7 @@ Qué grupos tocan cada día. Es la **única** fuente de qué-día-toca-qué
 - **Martes:** Running (rodaje suave)
 - **Miércoles:** Legs · Upper body · Calves
 - **Jueves:** Running (tempo)
-- **Viernes:** Legs · Calves · English
+- **Viernes:** Legs · English · Calves
 - **Sábado — Bloque A:** Running (series)
 - **Sábado — Bloque B:** Upper body · Calves · Estirar
 - **Domingo:** Running (rodaje largo) · Estirar
