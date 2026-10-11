@@ -4,18 +4,21 @@ El tipo de sesión depende del día (ver `../semana.md`).
 Corre en cinta. Las velocidades están en mph (la unidad de la cinta); entre paréntesis, min/km aproximado.
 
 ## Contenido actual
-_Vigente desde: 2026-10-05 (jueves actualizado; sábado y domingo desde 2026-10-03). Martes: referencia de la
-última sesión registrada (vigente desde 2026-10-01)._
+_Vigente desde: 2026-10-12 (jueves, sábado y domingo). Martes: referencia de la última sesión registrada (vigente desde 2026-10-01)._
 
 Progresión: el usuario quiere subir la carga de running un poco cada semana (pedido 2026-10-02),
 un solo cambio por tipo de sesión a la vez, mirando la meta de 10 km < 50 min.
 
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
-- **Jueves — Tempo:** calentamiento 8 min @ 5 mph; **28 min** @ 7.0 mph (~5:20/km); enfriamiento 5 min @ 5 mph (~41 min, ~7 km)
-- **Sábado — Series:** calentamiento 7 min @ 5.5 mph; **5 x 4 min** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 7 min @ 5.5 mph (~42 min, ~7 km)
-- **Domingo — Rodaje largo:** **45 min**, 5 → 5.5 mph (~6.4 km)
+- **Jueves — Tempo:** calentamiento 8 min @ 5 mph; **30 min** @ 7.0 mph (~5:20/km); enfriamiento 5 min @ 5 mph (~43 min, ~7.4 km)
+- **Sábado — Series:** calentamiento 7 min @ 5.5 mph; **5 x 4:30** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 7 min @ 5.5 mph (~44.5 min, ~7.7 km)
+- **Domingo — Rodaje largo:** **50 min**, 5 min @ 5 mph + 45 min @ 5.5 mph (~7.3 km)
 
 ## Historial
+
+### 2026-10-05 → 2026-10-11 (jueves, sábado, domingo)
+- Tempo 28 min @ 7.0 · Series 5 x 4:00 @ 8 · Largo 45 min
+- Motivo del cambio: progresión semanal aprobada por el usuario (8, 10 y 11 oct): tempo 30, series 4:30, largo 50 (≈ +6% vs plan).
 
 ### Jueves — Tempo: 2026-10-01 → 2026-10-04
 - calentamiento 8 min @ 5 mph; 25 min @ 7.0 mph; enfriamiento 5 min @ 5 mph

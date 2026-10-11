@@ -21,7 +21,7 @@ Para elegir variantes concretas falta saber: equipo disponible y lesiones/molest
   - Running (actualizado 2026-10-02): el usuario quiere subir running cada semana. Sábado 3 oct ya pasa a 5 x 4 min @ 8 mph.
     Domingo 4 oct: rodaje largo 45 min (aprobado y aplicado a la rutina el 2026-10-02).
 
-## Aprobado para la próxima semana (aplicar al generar `planes/2026-W42.md`, 12–18 oct)
+## Aprobado para W42 — ya aplicado en `planes/2026-W42.md` y `rutina/grupos/running.md` (2026-10-11)
 
 - [x] **Running (aprobado por el usuario el 2026-10-08):**
   - Tempo (jueves): 28 → **30 min @ 7.0 mph** (mismo ritmo; subir tiempo antes que ritmo).
