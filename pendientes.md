@@ -25,7 +25,7 @@ Para elegir variantes concretas falta saber: equipo disponible y lesiones/molest
 
 - [x] **Running (aprobado por el usuario el 2026-10-08):**
   - Tempo (jueves): 28 → **30 min @ 7.0 mph** (mismo ritmo; subir tiempo antes que ritmo).
-  - Rodaje largo (domingo): 45 → **50 min** a 5–5.5 mph.
+  - Rodaje largo (domingo): 45 → **50 min** a 5–5.5 mph. Confirmado 2026-10-11 pese a rodillas cargadas el 11/10 (sin dolor); si siente carga en piernas, acorta la duración.
   - Series (sábado): **5 x 4:30 @ 8 mph** (rec. 1.5 min @ 5 mph). Aprobado 2026-10-10 (antes: sin cambios).
   - Las 3 subidas juntas ≈ +6% de volumen semanal (estimado). Regla de escape: si una sesión pasa de 8.5/10, esa vuelve a lo anterior. Revisar al cerrar W42 si toca bajar algo.
   - Criterio a futuro para el tempo: subir de a 2–3 min hasta ~35 min @ 7.0; cuando se sienta 6–7/10, subir ritmo +0.1–0.2 mph.
