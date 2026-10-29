@@ -29,3 +29,9 @@ Para elegir variantes concretas falta saber: equipo disponible y lesiones/molest
   - Series (sábado): **5 x 4:30 @ 8 mph** (rec. 1.5 min @ 5 mph). Aprobado 2026-10-10 (antes: sin cambios).
   - Las 3 subidas juntas ≈ +6% de volumen semanal (estimado). Regla de escape: si una sesión pasa de 8.5/10, esa vuelve a lo anterior. Revisar al cerrar W42 si toca bajar algo.
   - Criterio a futuro para el tempo: subir de a 2–3 min hasta ~35 min @ 7.0; cuando se sienta 6–7/10, subir ritmo +0.1–0.2 mph.
+
+## Tempo en parque para validar velocidad (propuesto por el usuario el 2026-10-29)
+- Próximo tempo (jueves 2026-11-05, W45; el usuario dijo "miércoles" y luego "jueves" — confirmar): 33 min a 5:30/km en un parque con vuelta medida de 1 km → 6 km (6 vueltas).
+- 5:30/km = 10.9 km/h ≈ 6.8 mph (un poco más lento que el tempo en cinta a 7.0 mph ≈ 5:20/km).
+- Objetivo: comparar ritmo real al aire libre con la cinta. Cronometrar cada vuelta (botón de vuelta), anotar tramos donde tuvo que frenar por carros.
+- Subida de duración 30 → 33 min (+10%).
