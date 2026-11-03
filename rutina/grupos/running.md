@@ -11,10 +11,14 @@ un solo cambio por tipo de sesión a la vez, mirando la meta de 10 km < 50 min.
 
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
 - **Jueves — Tempo:** calentamiento 8 min @ 5 mph; **30 min** @ 7.0 mph (~5:20/km); enfriamiento 5 min @ 5 mph (~43 min, ~7.4 km)
-- **Sábado — Series:** calentamiento 7 min @ 5.5 mph; **5 x 4:30** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 7 min @ 5.5 mph (~44.5 min, ~7.7 km)
+- **Sábado — Series** (vigente desde 2026-11-03): calentamiento 8 min @ 5.5 mph; **5 x 5:00** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 5 min @ 5 mph (~44 min, ~8.0 km). Regla de escape: si pasa de 8.5/10, volver a 5 x 4:30.
 - **Domingo — Rodaje largo:** **50 min**, 5 min @ 5 mph + 45 min @ 5.5 mph (~7.3 km)
 
 ## Historial
+
+### Sábado — Series: 2026-10-12 → 2026-11-02
+- calentamiento 7 min @ 5.5 mph; 5 x 4:30 @ 8 mph con 1.5 min @ 5 mph; enfriamiento 7 min @ 5.5 mph
+- Motivo del cambio: el 2026-11-03 hizo 5 x 5:00 (aeróbico 8/10, piernas 8.5/10) y pidió fijarlo.
 
 ### 2026-10-05 → 2026-10-11 (jueves, sábado, domingo)
 - Tempo 28 min @ 7.0 · Series 5 x 4:00 @ 8 · Largo 45 min
