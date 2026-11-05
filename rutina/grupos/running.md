@@ -9,6 +9,14 @@ _Vigente desde: 2026-10-12 (jueves, sábado y domingo). Martes: referencia de la
 Progresión: el usuario quiere subir la carga de running un poco cada semana (pedido 2026-10-02),
 un solo cambio por tipo de sesión a la vez, mirando la meta de 10 km < 50 min.
 
+Palancas por tipo de sesión (acordadas con el usuario el 2026-11-05; horizonte 12–20 semanas, ver perfil.md):
+- **Series (sábado):** ir alternando palancas: más minutos por repetición, menos descanso, más repeticiones (o más velocidad).
+- **Tempo en cinta (jueves, semanas sin parque):** subir velocidad y/o tiempo poco a poco (siguiente: 7.5 mph x 33 min).
+- **Tempo en parque (jueves, cada 2 semanas):** distancia fija de 6 km; objetivo bajar el tiempo (33 → ~30 min, luego ~29) y terminar menos cansado.
+- **Rodaje largo (domingo):** seguir subiendo duración gradualmente hacia 70–80 min.
+- **Rodaje suave (martes):** casi sin cambios; es de recuperación.
+- Regla de escape en todas: si una sesión pasa de 8.5/10, volver a la carga anterior.
+
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
 - **Jueves — Tempo** (vigente desde 2026-11-05, primera vez el 2026-11-12): calentamiento 8 min @ 5 mph; **33 min** @ **7.5 mph** (~12.1 km/h, ~4:58/km según la cinta; el usuario sospecha que la cinta marca de más); enfriamiento 5 min @ 5 mph. Regla de escape: si pasa de 8.5/10, bajar la velocidad.
   - Cada 2 semanas el tempo va en el parque (vuelta de 1 km): 33 min / 6 km, objetivo ~32:50. Próximo: 2026-11-19.
