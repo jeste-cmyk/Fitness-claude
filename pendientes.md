@@ -35,3 +35,8 @@ Para elegir variantes concretas falta saber: equipo disponible y lesiones/molest
 - 5:30/km = 10.9 km/h ≈ 6.8 mph (un poco más lento que el tempo en cinta a 7.0 mph ≈ 5:20/km).
 - Objetivo: comparar ritmo real al aire libre con la cinta. Cronometrar cada vuelta (botón de vuelta), anotar tramos donde tuvo que frenar por carros.
 - Subida de duración 30 → 33 min (+10%).
+
+## Tempo: próximos pasos (decididos por el usuario el 2026-11-05, por confirmar detalle)
+- El usuario cree que la cinta no está bien calibrada (en parque 5:30/km costó RPE 9 vs ~8–8.5 en cinta a 7.0 mph ≈ 5:20/km). No confirmado: también pesan factores de aire libre y fatiga de la semana.
+- Próximo tempo en cinta (jue 2026-11-12): el usuario propone 7.5 mph (≈ 12.1 km/h, ≈ 4:58/km). Claude sugirió subir menos (7.2–7.3 mph) porque son +0.5 mph de golpe y hoy fue RPE 9. Pendiente respuesta.
+- Tempo en parque cada 2 semanas (aprobado). Próximo: jue 2026-11-19, 33 min / 6 km, objetivo ~32:50 con el mismo esfuerzo.
