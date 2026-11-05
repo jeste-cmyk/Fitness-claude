@@ -10,11 +10,16 @@ Progresión: el usuario quiere subir la carga de running un poco cada semana (pe
 un solo cambio por tipo de sesión a la vez, mirando la meta de 10 km < 50 min.
 
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
-- **Jueves — Tempo:** calentamiento 8 min @ 5 mph; **30 min** @ 7.0 mph (~5:20/km); enfriamiento 5 min @ 5 mph (~43 min, ~7.4 km)
+- **Jueves — Tempo** (vigente desde 2026-11-05, primera vez el 2026-11-12): calentamiento 8 min @ 5 mph; **33 min** @ **7.5 mph** (~12.1 km/h, ~4:58/km según la cinta; el usuario sospecha que la cinta marca de más); enfriamiento 5 min @ 5 mph. Regla de escape: si pasa de 8.5/10, bajar la velocidad.
+  - Cada 2 semanas el tempo va en el parque (vuelta de 1 km): 33 min / 6 km, objetivo ~32:50. Próximo: 2026-11-19.
 - **Sábado — Series** (vigente desde 2026-11-03): calentamiento 8 min @ 5.5 mph; **5 x 5:00** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 5 min @ 5 mph (~44 min, ~8.0 km). Regla de escape: si pasa de 8.5/10, volver a 5 x 4:30.
 - **Domingo — Rodaje largo:** **50 min**, 5 min @ 5 mph + 45 min @ 5.5 mph (~7.3 km)
 
 ## Historial
+
+### Jueves — Tempo: 2026-10-12 → 2026-11-04
+- calentamiento 8 min @ 5 mph; 30 min @ 7.0 mph; enfriamiento 5 min @ 5 mph
+- Motivo del cambio: tempo en parque el 2026-11-05 (6 km en 33:03, RPE 9) hizo pensar al usuario que la cinta marca de más; pidió 7.5 mph y 33 min. Claude sugirió 7.2–7.3 mph / 30 min; el usuario decidió 7.5 / 33.
 
 ### Sábado — Series: 2026-10-12 → 2026-11-02
 - calentamiento 7 min @ 5.5 mph; 5 x 4:30 @ 8 mph con 1.5 min @ 5 mph; enfriamiento 7 min @ 5.5 mph
