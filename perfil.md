@@ -10,6 +10,12 @@
 
 1. **Aumentar masa muscular en todo el cuerpo.**
 2. **Correr 10 km en menos de 50 min**, sin fecha exacta.
+   - **Horizonte acordado el 2026-11-05:** 12–20 semanas (≈ 2027-01-28 a 2027-03-25). Estimación de Claude, no pronóstico.
+   - **Punto de partida (2026-11-05):** 6 km en parque en 33:03 (RPE 9). Por fórmula de Riegel (aprox.) ≈ 55–57 min en 10 km.
+   - **Puntos de control:**
+     - 6 km en parque (cada 2 semanas): objetivo ~29:00–29:30 (≈ 4:50/km) = cerca del ritmo de 50 min.
+     - Rodaje largo: subir gradualmente hacia 70–80 min.
+     - Prueba real de 10 km cuando el 6 km se acerque al objetivo (fecha por definir con el usuario).
    - Equivale a un promedio de 5:00/km ≈ 12 km/h ≈ 7.46 mph sostenido en cinta.
 
 **Prioridad:** mejorar a buen ritmo **sin lesionarse** y **aumentando masa muscular** a la vez.
