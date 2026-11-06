@@ -9,7 +9,7 @@ Detectado el 2026-10-01: la rutina de fuerza actual (búlgara, pantorrillas, pul
 
 - [ ] **Cadena posterior (isquios / glúteo):** ej. peso muerto rumano, puente de glúteo, curl nórdico
 - [ ] **Empuje vertical (hombros):** ej. press militar, pike push-ups / handstand push-ups
-- [ ] **Core:** ej. plancha, elevaciones de piernas colgado, rueda abdominal
+- [x] **Core:** creado el grupo `rutina/grupos/core.md` (2026-11-06), viernes como alternativa a Legs.
 
 Para elegir variantes concretas falta saber: equipo disponible y lesiones/molestias.
 

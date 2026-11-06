@@ -24,7 +24,7 @@ El repo es la memoria: perfil, rutina, logs y planes viven aquí como archivos M
 perfil.md                     objetivos, nivel, equipo, lesiones, horarios
 pendientes.md                 ideas y propuestas aún no aprobadas (ejercicios a evaluar, progresiones)
 rutina/semana.md              qué grupos tocan cada día (única fuente de días; sábado en bloques A/B)
-rutina/grupos/<grupo>.md      un archivo por grupo (Legs, Calves, Upper body, Running, Estirar, English):
+rutina/grupos/<grupo>.md      un archivo por grupo (Legs, Calves, Upper body, Running, Estirar, English, Core):
                               descanso, contenido actual con fecha "vigente desde" e historial de cambios
 logs/AAAA/MM/AAAA-MM-DD.md    lo que realmente se hizo ese día
 planes/AAAA-Www.md            plan con cargas concretas para esa semana ISO
