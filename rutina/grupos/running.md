@@ -16,6 +16,8 @@ Palancas por tipo de sesión (acordadas con el usuario el 2026-11-05; horizonte 
 - **Rodaje largo (domingo):** seguir subiendo duración gradualmente hacia 70–80 min.
 - **Rodaje suave (martes):** casi sin cambios; es de recuperación.
 - Regla de escape en todas: si una sesión pasa de 8.5/10, volver a la carga anterior.
+- **Tope semanal (propuesto por el usuario el 2026-11-07):** la suma de cambios de una semana a la siguiente debe dar < 8% más de km semanales (plan vs plan, calculado desde mph). Se pueden repartir: subir más una sesión y dejar otras igual.
+  - Matiz: los km no reflejan subir velocidad o bajar recuperación; esos cambios cuentan más de lo que dicen los km → máximo 1 cambio de intensidad fuerte por semana.
 
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
 - **Jueves — Tempo** (vigente desde 2026-11-05, primera vez el 2026-11-12): calentamiento 8 min @ 5 mph; **33 min** @ **7.5 mph** (~12.1 km/h, ~4:58/km según la cinta; el usuario sospecha que la cinta marca de más); enfriamiento 5 min @ 5 mph. Regla de escape: si pasa de 8.5/10, bajar la velocidad.
