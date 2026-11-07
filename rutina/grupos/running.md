@@ -22,10 +22,15 @@ Palancas por tipo de sesión (acordadas con el usuario el 2026-11-05; horizonte 
 - **Martes — Rodaje suave:** ~43 min, 5.5 mph (~6:47/km) con 5 min de entrada y 3 min de salida a 5 mph
 - **Jueves — Tempo** (vigente desde 2026-11-05, primera vez el 2026-11-12): calentamiento 8 min @ 5 mph; **33 min** @ **7.5 mph** (~12.1 km/h, ~4:58/km según la cinta; el usuario sospecha que la cinta marca de más); enfriamiento 5 min @ 5 mph. Regla de escape: si pasa de 8.5/10, bajar la velocidad.
   - Cada 2 semanas el tempo va en el parque (vuelta de 1 km): 33 min / 6 km, objetivo ~32:50. Próximo: 2026-11-19.
-- **Sábado — Series** (vigente desde 2026-11-03): calentamiento 8 min @ 5.5 mph; **5 x 5:00** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 5 min @ 5 mph (~44 min, ~8.0 km). Regla de escape: si pasa de 8.5/10, volver a 5 x 4:30.
-- **Domingo — Rodaje largo:** **50 min**, 5 min @ 5 mph + 45 min @ 5.5 mph (~7.3 km)
+- **Sábado — Series** (vigente desde 2026-11-07, primera vez el 2026-11-14): calentamiento 8 min @ 5.5 mph; **5 x 5:15** @ 8 mph (~4:40/km) con 1.5 min @ 5 mph; enfriamiento 5 min @ 5 mph (~45 min, ~8.2 km). Regla de escape: si pasa de 8.5/10, volver a 5 x 5:00.
+- **Domingo — Rodaje largo** (vigente desde 2026-11-07, primera vez el 2026-11-15): **55 min**, 5 min @ 5 mph + 50 min @ 5.5 mph (~8.0 km)
 
 ## Historial
+
+### Semana 2026-W46: cambios aprobados el 2026-11-07 (total ≈ +7.0% km vs semana base, bajo el tope de 8%)
+- Series: 5 x 5:00 (2026-11-03 → 2026-11-13) → 5 x 5:15. Motivo: 5 x 5:00 el 2026-11-07 con piernas 8/10; el usuario eligió 5:15 (Claude sugirió 5:10).
+- Largo: 50 min (2026-10-12 → 2026-11-14) → 55 min.
+- Tempo: 7.5 mph x 33 min (ya aprobado el 2026-11-05).
 
 ### Jueves — Tempo: 2026-10-12 → 2026-11-04
 - calentamiento 8 min @ 5 mph; 30 min @ 7.0 mph; enfriamiento 5 min @ 5 mph
