@@ -3,11 +3,16 @@
 - **Descanso:** 45 s después de cada pierna (pierna derecha → 45 s → pierna izquierda → 45 s → siguiente serie). Desde 2026-10-09; antes: 1 min después de ambas piernas.
 
 ## Contenido actual
-_Vigente desde: 2026-11-02 (aplica desde la próxima sesión de Legs)_
+_Vigente desde: 2026-11-09_
 
-- Sentadilla búlgara (cada pierna, peso corporal) — 12 / 11 / 11 / 12 reps (4 series)
+- Sentadilla búlgara (cada pierna) **con 6 kg** (2 mancuernas de 3 kg) — 12 / 11 / 11 / 11 reps (4 series)
+- Progresión: sumar reps hasta ~12/12/12/12 con este peso; luego subir peso.
 
 ## Historial
+
+### 2026-11-02 → 2026-11-08
+- Sentadilla búlgara (cada pierna, peso corporal) — 12 / 11 / 11 / 12 reps (4 series)
+- Motivo del cambio: el 2026-11-09 el usuario agregó 6 kg (2 mancuernas de 3 kg) e hizo 12/11/11/11 casi al fallo; pidió dejarlo como base.
 
 ### 2026-10-26 → 2026-11-01
 - Sentadilla búlgara (cada pierna, peso corporal) — 12 / 11 / 11 / 11 reps (4 series)
