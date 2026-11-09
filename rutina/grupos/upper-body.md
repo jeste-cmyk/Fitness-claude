@@ -3,12 +3,16 @@
 - **Descanso entre series:** 1 min 30 s
 
 ## Contenido actual
-_Vigente desde: 2026-11-07 (aplica desde la próxima sesión)_
+_Vigente desde: 2026-11-09 (dips desde la próxima sesión)_
 
 - Pull ups — 8 / 7 / 7 / 7 reps (4 series)
-- Dips — 9 / 9 / 9 / 9 reps (4 series)
+- Dips — 10 / 9 / 9 / 9 reps (4 series)
 
 ## Historial
+
+### 2026-11-07 → 2026-11-09
+- Pull ups — 8 / 7 / 7 / 7 · Dips — 9 / 9 / 9 / 9
+- Motivo del cambio: dips 9x4 desde el 2026-10-03 (>5 semanas, casi siempre al fallo); el usuario eligió 10/9/9/9 (alternativa: bajada en 3 s).
 
 ### 2026-10-03 → 2026-11-07
 - Pull ups — 7 / 7 / 7 / 7 reps (4 series)
