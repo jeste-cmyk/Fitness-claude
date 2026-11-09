@@ -3,11 +3,15 @@
 - **Descanso entre series:** 1 min
 
 ## Contenido actual
-_Vigente desde: 2026-10-30_
+_Vigente desde: 2026-11-09_
 
-- Pantorrillas (cada pierna) — 14 / 12 / 12 / 12 reps (4 series)
+- Pantorrillas (cada pierna) — 15 / 12 / 12 / 12 reps (4 series)
 
 ## Historial
+
+### 2026-10-30 → 2026-11-08
+- Pantorrillas (cada pierna) — 14 / 12 / 12 / 12 reps (4 series)
+- Motivo del cambio: el 2026-11-09 hizo 15/12/12/12 y pidió fijarlo.
 
 ### 2026-10-09 → 2026-10-29
 - Pantorrillas (cada pierna) — 14 / 12 / 12 / 10 reps (4 series)
