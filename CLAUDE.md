@@ -67,6 +67,10 @@ Son heurísticas de diseño, no verdades científicas. Usar con criterio y expli
 - Ejercicios con peso corporal y reps en escalera (ej. 12/11/10/9): progresar sumando 1 rep a una o
   más series, luego añadir una serie o lastre. Sugerir un solo cambio por grupo a la vez.
 - Running: no subir volumen semanal más de lo razonable de golpe; ajustar con lo reportado.
+- **Anti-estancamiento (pedido del usuario el 2026-11-09):** revisar cada grupo cada ~2 semanas. Si un
+  ejercicio lleva 2–3 semanas sin subir nada, proponer un cambio (+1 rep en una serie, una serie más,
+  lastre, o variar el ejercicio). Si no sube porque llega al fallo y no hay margen, cambiar de palanca
+  (p. ej. lastre o bajada lenta) en vez de forzar reps.
 - Si falló el piso del rango dos sesiones seguidas en un ejercicio: mantener o bajar ~5–10%.
 - Si reporta dolor (no confundir con fatiga normal): no subir carga en ese ejercicio, sugerir
   alternativa y recomendar consultar a un profesional si persiste.
